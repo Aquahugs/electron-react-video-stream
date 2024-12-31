@@ -1,6 +1,6 @@
 # Electron React Video Stream
 
-Jordan's hybrid application that **streams frames** from an iPad (via an open-source AirPlay mirroring server) into an **Electron** + **React** app in real-time. This project demonstrates how to decode and forward AirPlay frames (using [GStreamer](https://gstreamer.freedesktop.org/) under the hood) and render them via an HTML5 `<canvas>` in an Electron/React front end.
+hybrid application that **streams frames** from an iPad (via an open-source AirPlay mirroring server) into an **Electron** + **React** app in real-time. This project demonstrates how to decode and forward AirPlay frames (using [GStreamer](https://gstreamer.freedesktop.org/) under the hood) and render them via an HTML5 `<canvas>` in an Electron/React front end.
 
 Here’s a preview of the Electron React Video Stream app:
 
